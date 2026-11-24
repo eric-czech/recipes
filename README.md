@@ -10,7 +10,7 @@ The site is a single, self-contained `index.html`: recipe text, CSS, and eight c
 
 - Thanksgiving 2026 — blood orange and rosemary Paloma pitcher; cranberry cornbread focaccia; baked Brie with fig jam, crispy prosciutto and rosemary; slow-cooker turkey breast with lemon-garlic gravy; stuffed butternut squash; caramelized carrot tarte Tatin with ginger; sunshine salad with carrot-ginger dressing; Lisbon chocolate cake.
 
-Collections are represented by semantic sections inside `index.html`. Add future collections as additional sections and add links in the collection navigation. Recipe IDs provide stable links within the page. On phones and tablets, the recipe index is a native collapsible menu and the text reflows into a single column on narrower screens. Primary controls have a minimum 44-pixel tap height.
+Collections are represented by semantic sections inside `index.html`. Add future collections as additional sections and add links in the collection navigation. Recipe IDs provide stable links within the page. On phones and tablets, the recipe index is a native collapsible menu and the text reflows into a single column on narrower screens. Mobile primary controls have a minimum 44-pixel tap height.
 
 ## Editing and publishing
 
